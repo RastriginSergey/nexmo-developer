@@ -17,7 +17,7 @@ Key | Description
 -- | --
 `WHATSAPP_NUMBER` | The WhatsApp number that has been allocated to you by Nexmo.
 `TO_NUMBER` | The phone number you are sending the message to.
-`WHATSAPP_TEMPLATE_NAMESPACE` | The Namespace ID found in your WhatsApp Business Account.
+`WHATSAPP_TEMPLATE_NAMESPACE` | The namespace ID found in your WhatsApp Business Account.
 `WHATSAPP_TEMPLATE_NAME` | The name of the template created in your WhatsApp Business Account.
 `HEADER_IMAGE_URL` | The URL of the image to display in the template message header.
 
